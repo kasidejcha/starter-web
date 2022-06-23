@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	person goalkeeper person@twitter.com
 
 # THANKS
 
