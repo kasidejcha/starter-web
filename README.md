@@ -13,3 +13,7 @@ deployment section
 ## How to contribute
 
 contribution
+
+## Copyright
+
+Git.Training
