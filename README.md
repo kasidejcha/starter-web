@@ -12,7 +12,7 @@ deployment section
 
 ## How to contribute
 
-contribution
+contribution. Folk it
 
 ## Copyright
 
