@@ -18,4 +18,4 @@ contribution. Folk it
 
 ## Copyright
 
-Git.Training. All rights reserved.
+Git.Training. All rights reserved. fix
